@@ -1,7 +1,7 @@
 <h2 align="left">Olá, Meu nome é Roger Vasconcelos!</h2>
 
 
-<div style='
+<div align="center" style='
         font-size: 16px; font-weight: bold;
         display: flex; align-items: center; justify-content: center; gap: 15px;
         padding: 10px 0px;
