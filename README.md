@@ -7,7 +7,9 @@
 </div>
 
 
-Possuo domínio com Apex Salesforce, JavaScript, Typescript, React.js, JQuery, Bootstrap5 e SQL, mas, também, tenho forte conhecimento em Node.js, PHP e Python.
+<div>
+    Possuo domínio com Apex Salesforce, JavaScript, Typescript, React.js, JQuery, Bootstrap5 e SQL, mas, também, tenho forte conhecimento em Node.js, PHP e Python.
+</div>
 
 ###
 
